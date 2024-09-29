@@ -1,0 +1,2 @@
+# obsidian
+Plugins for obsidian
