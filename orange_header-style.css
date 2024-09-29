@@ -1,0 +1,51 @@
+/* H1 Header Style */
+.inline-title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #FF5C00!important;
+  margin-bottom: 20px;
+}
+
+/* H2 Header Style */
+.cm-header.cm-header-2 {
+    background: linear-gradient(to right, #FF5C00, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+/* H3 Header Style */
+.cm-header.cm-header-3 {
+    background: linear-gradient(to bottom, #FF5C00, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Highlight */
+.cm-highlight {
+  background-color: unset!important; 
+  color: #FF5C00!important;
+  text-shadow: 0 0 1px #FF5C00, 0 0 1px #FF5C00, 0 0 10px #FF5C00, 0 0 20px #FF5C00;
+}
+
+
+/* Negrita - Bold - Strong */
+.cm-strong {
+  color: #FF5C00!important; 
+}
+
+/* Quotes */
+.cm-quote {
+  background-color: rgba(255, 92, 0, 0.5)!important; 
+}
+
+/* Cursiva */
+.cm-em {
+  color: #fd8a5b!important;
+}
+
+/* Table */
+thead th {
+  color: #FF5C00!important;
+}
